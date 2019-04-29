@@ -1,10 +1,32 @@
-
-
-h1{
-    text-align:center;
+.cuerpo{
+    background-color: chocolate;
+    font-family: "Georgia";
+    border: 10px;
+    border-left: 20px solid brown;
+    padding: 20px 20px 20px 30px;
+    font-size: 20px;
 }
-h2{
-    color: red
+.news-tittle{
+    color: black;
+    text-align:center;
+    
+}
+.news-Subtitle{
+    text-align: left;
+    color: black;
+    border-bottom: 3px solid brown
+}
+.blog-quote{
+    background-color: beige;
+    padding: 20px 30px 20px 30px;
+    font-style: italic;
+    font-size: 15px;
+    margin:20px;
+    border: 8px solid black;
+    height: 180px;
+    width: 180px;
+    text-align: center;
+
 }
 
 
